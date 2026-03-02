@@ -16,7 +16,7 @@ Python · FastAPI · PostgreSQL · Docker · Linux · Pytest
 - Упаковка и запуск сервисов в Docker, базовый деплой на сервер
 
 ## Проекты
-Ниже на профиле закреплю основные проекты: FoodGram, KittyGram, Tasky и CLI-утилиту Clio (в разработке).
+Ниже на профиле закреплю основные проекты: FoodGram, KittyGram, Taski и CLI-утилиту Gendiff-cli (в разработке).
 
 ## Контакты
 - Telegram: @pilot713
