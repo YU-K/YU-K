@@ -2,15 +2,13 @@
 
 # Юрий — Python Backend Developer
 
-Разрабатываю backend-сервисы на Python: REST API, базы данных, контейнеризация, тестирование и деплой.
-Фокус: понятная архитектура, чистый код, воспроизводимые окружения.
+Разработка серверных приложений на Python: API, модели данных, контейнеризация и деплой.  
+Архитектура, поддерживаемость и предсказуемость системы — в приоритете.
+
+---
 
 ## Стек
-- **Python**: FastAPI, SQLAlchemy, Alembic, Pydantic
-- **DB**: PostgreSQL
-- **Infra**: Docker / docker-compose, Nginx, Linux
-- **Testing**: pytest
-- **Tools**: Git, GitHub Actions
+Python · FastAPI · PostgreSQL · Docker · Linux · Pytest
 
 ## Чем полезен команде
 - Разработка API и интеграций, проектирование схем БД
